@@ -3,7 +3,7 @@
         "id": 1,
         "judul": "3D Kanojo: Real Girl",
         "mc": "Tsutsui HiKari",
-        "genre": ["Romance", "School", "shoujo"],
+        "genre": ["Romance", "School", "Shoujo"],
         "gambar": "https://cdn.phototourl.com/free/2026-04-16-b5055871-47d0-4558-a87f-a58135ead7a1.jpg",
         "pendapat": "Rating dari saya yaitu 8/10, karena ketipu dengan genre, padahal di genre tidak ada genre drama, kenapa di season1 maupun season2 mengandung full bawang, hadeh, dan juga kenapa di sinopsis katanya igarashi iroha mau pindah sekolah, eh malah pas di season2 ternyata iroha memiliki penyakit yang bisa membuat lupa ingatan😭"
     },
@@ -11,13 +11,13 @@
         "id": 2,
         "judul": "Boku wa tomodachi ga sukunai",
         "mc": "Hasegawa Kodaka/Taka",
-        "genre": ["Ecchi", "Slice of life", "Romance", "school", "Comedy", "Harem"],
+        "genre": ["Ecchi", "Slice of Life", "Romance", "School", "Comedy", "Harem"],
         "gambar": "https://cdn.phototourl.com/free/2026-04-16-d334b4c9-62c1-41d8-93b5-84f6e120ab36.jpg",
         "pendapat": "Apa-apaan ini anime anjing, di season1 aja lucu-lucu banyak joks bikin ketawa, eh kok pas di season2 pas scen fb masa lalu 10th ke belakang, alur malah semakin ribet, dan juga kesel banget sama mc yang Sangat-sangat pengecut, ketika sena bilang, kalau dia suka sama mc, eh mc malah pura-pura tolol gajelas, trauma banget gw liat anime ini, niatnya healing, malah nambah mental break😭"
     },
     {
         "id": 3,
-        "judul": "chitose-kun wa ramune bin no naka",
+        "judul": "Chitose-kun wa ramune bin no naka",
         "mc": "Saku Chitose",
         "genre": ["Romance", "School", "Comedy", "Harem"],
         "gambar": "https://cdn.phototourl.com/free/2026-04-16-99e86fc3-dece-4357-8177-21cf207b67bb.jpg",
@@ -33,38 +33,38 @@
     },
     {
         "id": 5,
-        "judul": "Hajimete no gal",
-        "mc": "Hashiba juinichi",
-        "genre": ["shounen", "ecchi", "romance", "school", "comedy"],
+        "judul": "Hajimete no Gal",
+        "mc": "Hashiba Juinichi",
+        "genre": ["Shounen", "Ecchi", "Romance", "School", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCTqKvJ31bNEJffKgdddSeubUUwS9o61jgDSF8tqjTw&s",
         "pendapat": "Peak banget sih nih anime, sebelumnya gw kira full ecchi/mesum, eh kok pas menuju end eps, kaget banget mental belum siap, tiba² NTR😹🤧, gw kira bad end, untung aja author nya msh baik, jadi end nya happy, walaupun agak netes air mata sedikit😹"
     },
     {
         "id": 6,
-        "judul": "isekai de cheat skill wo te ni shita ore wa",
+        "judul": "Isekai de cheat skill wo te ni shita ore wa",
         "mc": "Tenjou Yuuya",
-        "genre": ["action", "fantasy", "School", "Adventure", "Isekai"],
+        "genre": ["Action", "Fantasy", "School", "Adventure", "Isekai"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4gciBu3mzHIhvL1Q7iSoq2Lpwxwy_bJ6-CuBF7rtsiQ&s=10",
         "pendapat": "gendut gamasalah, soalnya mc pemberani, apalagi pas udh menemukan pintu ke isekai, beh fisiknya berubah jadi kekar, dan op banget gokil, apalagi banyak cwek nya lagi, gacor lah😹😋"
     },
     {
-    "id": 7,
+        "id": 7,
         "judul": "Isekai nonbiri nouka",
-        "mc": "Hiraku machiou",
-        "genre": ["Slice Of Life", "fantasy", "Isekai"],
-        "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRr12ePnUwP6rdzIidGtzDLr21ATsSJLqVO0HMRhD3rw&s=10",
+        "mc": "Hiraku Machiou",
+        "genre": ["Slice of Life", "Fantasy", "Isekai"],
+        "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRr12ePnUwP6rdzIidGtzDLr21ATsJLqVO0HMRhD3rw&s=10",
         "pendapat": "Mati konyol karena kesalahan dewa emang lucu banget, apalagi pas udh reinkarnasi malah di tempatkan di lokasi milik wilayah raja iblis, tapi untungnya mc di kasih senjata yang gacor banget, apalagi banyak kedatangan harem, nya, gokil banget lah"
     },
     {
-    "id": 8,
-        "judul": "kage no jitsuryokusha",
+        "id": 8,
+        "judul": "Kage no jitsuryokusha",
         "mc": "Cid Kagenou",
-        "genre": ["action", "fantasy", "Comedy", "Reincarnation", "Isekai"],
+        "genre": ["Action", "Fantasy", "Comedy", "Reincarnation", "Isekai"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qGea4y2eIwWLYnj5I0du5MhmHJJIrj5jGW436IhCTg&s=10",
         "pendapat": "Ini baru mc isekai yang benar² pembunuh di balik bayangan, soalnya kalo ada orang, mc pura² lemah, mc bisa jadi NPC/karakter sampingan, padahal kekuatan nya gak ngotak banget, apalagi pas menjadi jimina seinen, keren banget cik, fisik loyo=kekuatan dewa😹☠️"
     },
     {
-    "id": 9,
+        "id": 9,
         "judul": "Kanojo mo Kanojo",
         "mc": "Mukai Naoya",
         "genre": ["Shounen", "Slice of Life", "School", "Romance", "Comedy"],
@@ -72,39 +72,39 @@
         "pendapat": "Mc nya otak nya konslet ini mah, masa mendua harus bilang ke pacar nya dlu, nah ini yang bikin membuat alur nya gokil, soalnya lucu² apalagi tuh pacarnya tsundere banget🤣"
     },
     {
-    "id": 10,
+        "id": 10,
         "judul": "Lvl2 kara cheat",
         "mc": "Banaza",
-        "genre": ["fantasy", "Adventure", "isekai", "Romance"],
+        "genre": ["Fantasy", "Adventure", "Isekai", "Romance"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpYv28xvr2Y7wvrnf2QbqoxLvykY40J9oweqqoNMExQ&s=10",
         "pendapat": "Reinkarnasi ke dunia yang mirip sama dunia nya mc, tapi bedanya yg setelah reinkarnasi, dia dapat kekuatan yang ∞ op banget, apalagi dapat 1my bini😋"
     },
     {
-    "id": 11,
+        "id": 11,
         "judul": "Majutsushi Kunon wa mieteiru",
         "mc": "Kunon Gurion",
-        "genre": ["fantasy"],
+        "genre": ["Fantasy"],
         "gambar": "https://cdn.phototourl.com/free/2026-04-16-eed25f49-76d3-4ebd-9e39-4013dc6b0adc.jpg",
         "pendapat": "Menurut gw sebagai pecinta isekai, ini kurang banget kalau di sebut isekai, soalnya mc ga pernah berpetualang sama sekalipun, gak kayak kebanyakan anime isekai lainnya, dan juga mc nya menurut gw playboy banget gak suka anjg😹"
     },
     {
-    "id": 12,
+        "id": 12,
         "judul": "Maou-Sama, Retry! R",
         "mc": "Kunai Hakuto",
-        "genre": ["Action", "Adventure", "fantasy"],
+        "genre": ["Action", "Adventure", "Fantasy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQexwlakOUchQPkSBmMKQSdYU79R7nIi4SC6pXb1XxV65vhgu_eOa3SsM&s=10",
         "pendapat": "Masuk ke isekai karena game buatannya sendiri, dan memakai karakter buatan nya sendiri yang di sebut dengan nama Maou Sama, walaupun mc gak kebal terhadap sihir, tetapi op banget kekuatan fisik nya cik😹"
     },
     {
-    "id": 13,
+        "id": 13,
         "judul": "Mashle",
         "mc": "Mash Burnedead",
-        "genre": ["Shounen", "Action", "School", "comedy", "fantasy", "Parody"],
+        "genre": ["Shounen", "Action", "School", "Comedy", "Fantasy", "Parody"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrm8VHRChFr3dCkSzHAxkzkdEbjBS1ulOp4EIdF0AVHw&s=10",
         "pendapat": "Ini nih mc gacor fisik nya, mirip Saitama, walaupun masuk dunia sihir, yg di penuhi sihir op, mc tetap mengandalkan kekuatan fisik nya untuk bertarung"
     },
     {
-    "id": 14,
+        "id": 14,
         "judul": "Mugen Gacha",
         "mc": "Light",
         "genre": ["Action", "Fantasy"],
@@ -112,31 +112,31 @@
         "pendapat": "Meskipun di awal episode mc nya cupu, dan ingin di bunuh takut kalau mc itu master, dan alhasil mc gagal di bunuh karna ada sihir teleport ke dungeon lantai paling terdalam, lalu mc spin gacha, eh yg keluar malah maid yang sangat op gokil banget cik😋😹"
     },
     {
-    "id": 15,
-        "judul": "My dress-up Darling",
+        "id": 15,
+        "judul": "My Dress-up Darling",
         "mc": "Wakana Gojo",
         "genre": ["Shounen", "Slice of Life", "School", "Romance", "Comedy"],
         "gambar": "https://cdn.phototourl.com/free/2026-04-16-a62b52e8-aaaa-4b94-9d3c-e724a2838df2.jpg",
         "pendapat": "Padahal di season1 seru² aja gak boring soalnya di season1 bikin hati jedag jedug, eh pas masuk season2 malah boring banget, kebanyakan bahas cosplaye, dan nampilin anime lain yang gak guna, dan Kitagawa pdhl memiliki perasaan kpd mc, kenapa dah ga bilang, buang² waktu untuk nonton, alur nya boring banget di s2, padahal aku menanti romance nya, malah ga confess sama sekali"
     },
     {
-    "id": 16,
+        "id": 16,
         "judul": "OniAi",
-        "mc": "Akito himenokouji",
-        "genre": ["ecchi", "Harem", "School", "Romance", "Comedy"],
+        "mc": "Akito Himenokouji",
+        "genre": ["Ecchi", "Harem", "School", "Romance", "Comedy"],
         "gambar": "https://www.capsulecomputers.com.au/wp-content/uploads/2014/01/OniAi-Review-4-600x337.png",
         "pendapat": "Geloo animenya comedy nya bagus banget, dan salut sih sama iman nya mc, kuat banget, pdhl banyak cewek di dekat nya, dan lagi Plotwist nya, ternyata Akiko tidak sedarah sama si mc, terus adik yang asli nya siapa ya, penasaran banget, tapi sayang sekali Productions SILVER.LINK, gabakal silverlink ada season2😹"
     },
     {
-    "id": 17,
-        "judul": "saikyou onmyouji no isekai tenseiki",
+        "id": 17,
+        "judul": "Saikyou Onmyouji no isekai tenseiki",
         "mc": "Haruyoshi",
-        "genre": ["Action", "Adventure", "isekai", "Reincarnation"],
+        "genre": ["Action", "Adventure", "Isekai", "Reincarnation"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVuA1Gft5IIgrn4KXR-HytOrCedjXzH-SjgL7eXTO8g&s=10",
         "pendapat": "Kasian juga mc di jebak sama bawahan nya sendiri, untung aja mc berhasil reinkarnasi ke dunia lain😹, apalagi kekuatan kertas nya yang op banget gak logis"
     },
     {
-    "id": 18,
+        "id": 18,
         "judul": "Sakamoto Days",
         "mc": "Tarou Sakamoto",
         "genre": ["Action", "Comedy"],
@@ -144,187 +144,187 @@
         "pendapat": "Walaupun skrg pensi jadi pembunuh bayaran dan fisik nya jadi gendut, tetap aja kekuatan nya masih op banget cik"
     },
     {
-    "id": 19,
+        "id": 19,
         "judul": "Solo Leveling",
         "mc": "Sung Jin woo",
-        "genre": ["Action", "fantasy", "Adventure"],
-        "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtVWx81B_dPcYvHj6DKIFEFnnF0p1c4Hmz5XziiuP44g&s=10",
+        "genre": ["Action", "Fantasy", "Adventure"],
+        "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtVWx81B_dPcYvHj6DKIFEFnnF0p1c4Hm5zXziiuP44g&s=10",
         "pendapat": "Ini baru anime gelud² an yang menurut gw bagus banget, soalnya awal² eps mc masih keroco banget, setelah mengalami trauma berat, dan mendapatkan kekuatan berbasis level, di situlah kekuatan mc sesungguhnya mulai bangkit☠️"
     },
     {
-    "id": 20,
+        "id": 20,
         "judul": "Tensei Kenja no isekai life",
         "mc": "Yuji Sano",
-        "genre": ["Action", "fantasy", "Adventure", "Isekai"],
+        "genre": ["Action", "Fantasy", "Adventure", "Isekai"],
         "gambar": "https://a.storyblok.com/f/178900/820x500/5eba99e0a3/7a2a89ceb42775a991277488be0b18db1612100627_main.jpg/m/filters:quality(95)format(webp)",
         "pendapat": "Mc nya terlalu dingin, walaupun kekuatan nya cuma beasttamer/pengendali hewan, tetapi bisa-bisanya op banget gak ngotak😹"
     },
     {
-    "id": 21,
+        "id": 21,
         "judul": "Tensei kizoku no isekai boukenroku",
         "mc": "Shinaa Kazuya/Chain vol silfrod",
-        "genre": ["Action", "fantasy", "harem", "Romance", "Isekai", "Reincarnation"],
+        "genre": ["Action", "Fantasy", "Harem", "Romance", "Isekai", "Reincarnation"],
         "gambar": "https://i.ytimg.com/vi/1ZBkly89TaY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD_8ihYI-tvAZRh7jZA46_apiLg4A",
         "pendapat": "Mc nya terlalu op, dan hoky nya gak ngotak, masa baru umur 10th dah di jodohkan sama 3cwek cantik njr, gw juga mw😹😋"
     },
     {
-    "id": 22,
-        "judul": "The 100 girlfriends",
+        "id": 22,
+        "judul": "The 100 Girlfriends",
         "mc": "Rentarou Aijou",
-        "genre": ["seinen", "romance", "School", "comedy", "Harem", "parody"],
+        "genre": ["Seinen", "Romance", "School", "Comedy", "Harem", "Parody"],
         "gambar": "https://cdn.phototourl.com/free/2026-04-16-7063df7b-44be-480a-aaf0-727b62d7682f.jpg",
         "pendapat": "Nah ini, baru anime romcom+harem, anime nya enak buat santai, dan bikin ketawa terus, enak banget jadi mc, bisa memiliki sampai 100pacar, walaupun sampai di season2 masih 11pacar, belum mencapai100, gokil nya lagi bisa² nya ibunya hikari terpikat juga sama si mc🤣"
     },
     {
-    "id": 23,
+        "id": 23,
         "judul": "Yano-kun",
         "mc": "Yano",
-        "genre": ["romance", "school", "comedy"],
+        "genre": ["Romance", "School", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScPGMsfyZiOUDdX6oVWqW_MXhUN6UgRiS23CTo_O8QA&s=10",
         "pendapat": "Anime romance school yang sangat² masterpiece sih, walaupun cinta segi 3 wkwk, beruntung banget woylah cik yano dapat cwek yg klepek² terus ke dia🤣, walaupun agak kesel gak liat mata nya"
     },
     {
-    "id": 24,
+        "id": 24,
         "judul": "Yumemiru Danshi Wa Genjitsushugisha",
         "mc": "Wataru Sajou",
-        "genre": ["romance", "school", "comedy"],
+        "genre": ["Romance", "School", "Comedy"],
         "gambar": "https://cdn.phototourl.com/free/2026-04-16-83ab69da-5ef5-447e-bbbd-a12a27646c1f.png",
         "pendapat": "Nah ini nih baru laki² sejati, mc yg pantang menyerah, tapi kalo pas capek nge deketin cewek, harus menyerah, nah itu yang bikin gw demen sama anime ini, mc nya dingin abiz, sampai Aika natsukawa yang suka sama mc akhirnya bilang kalau mc adalah tempat bersandar nya, walaupun end nya gantung juga sih 🤣, tetapi ok lah"
     },
     {
-    "id": 25,
-        "judul": "kono kaisha ni suki na hito ga imasu",
+        "id": 25,
+        "judul": "Kono kaisha ni suki na hito ga imasu",
         "mc": "Masugu Tateishi",
-        "genre": ["seinen", "romance", "comedy"],
+        "genre": ["Seinen", "Romance", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuyeSq9xHr5-Yh2Y6LC1Zjr9JjB_5uOYFMxRowREHkQ&s=10",
         "pendapat": "ini baru anime yang benar² masterpiece, berawal teman kerja, menjadi pacar kantor rahasia, gokil banget bikin kering gigi, end nya juga mereka menikah🔥"
     },
     {
-    "id": 26,
-        "judul": "danjo no yuujou",
+        "id": 26,
+        "judul": "Danjo no yuujou",
         "mc": "Yuu",
-        "genre": ["romance", "school", "comedy"],
+        "genre": ["Romance", "School", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmdSRs-XXGY_UnmJr_mMmyS8mCT7ikVCls64vJ-xNZw&s=10",
         "pendapat": "ini awal² anime bagus banget, eh malah pas pertengahan konflik nya bikin nyesek banget, nanti MC jga bingung mau milih siapa😂, tapi lumayan lah untuk end nya bagus"
     },
     {
-    "id": 27,
+        "id": 27,
         "judul": "2.5-jigen no ririsa",
         "mc": "Okumura",
-        "genre": ["shounen", "school", "ecchi", "comedy", "harem"],
+        "genre": ["Shounen", "School", "Ecchi", "Comedy", "Harem"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSa9mbkzeM9DfYM-hs90MXS5ho2gW9a54tY--x6en1mQ&s=10",
         "pendapat": "mantab sih pendirian nya MC kalo cewek 3d itu menyakitkan, walaupun nanti end nya MC sadar kalo tmn masa kecil nya suka sama dia, tapi agak gantung di end nya, soalnya belum pacaran di anime"
     },
     {
-    "id": 28,
+        "id": 28,
         "judul": "29-sai dokushin chuuken",
-        "mc": "shinonome Hajime",
-        "genre": ["fantasy", "shounen", "adventure"],
+        "mc": "Shinonome Hajime",
+        "genre": ["Fantasy", "Shounen", "Adventure"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLpwXLXpR3RnKYo0oYKtnFJIBnnq8vGfyiNNbBieGfCQ&s=10",
         "pendapat": "mantab banget njr, MC hoky dapat loli succubus, enak buat investasi jangka panjang, nanti kalau matang gacor parah🤣"
     },
     {
-    "id": 29,
+        "id": 29,
         "judul": "Ao no Hako",
-        "mc": "Taiki inomata",
-        "genre": ["romance", "school", "shounen", "sports"],
+        "mc": "Taiki Inomata",
+        "genre": ["Romance", "School", "Shounen", "Sports"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnmPw5ZkbWi45-h9-g0YqTUsVMs5LhnLWfhB009BXow&s=10",
         "pendapat": "males banget njr bisa² nya MC tergila² terus sama chinatsu, kasian banget tmn masa kecil nya, pdhl udh nembak MC malah MC nolak, udh mending buat gw aja itu tmn masa kecil nya😂"
     },
     {
-    "id": 30,
-        "judul": "around 40 otoko no isekai tsuuhan",
+        "id": 30,
+        "judul": "Around 40 otoko no isekai tsuuhan",
         "mc": "Kenichi Hamada",
-        "genre": ["fantasy", "shounen", "Ecchi", "Harem", "Isekai"],
+        "genre": ["Fantasy", "Shounen", "Ecchi", "Harem", "Isekai"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEjC9HZ56bqKljoenwE0ACmjZoe8F1lKDRSkCQcTu-w&s=10",
         "pendapat": "walaupun skill si MC cuma belanja online, tapi gacor nya dapat bini cantik² banyak njr, walaupun gak ad genre romance, tetap aja bikin kering gigi Wak🤣"
     },
     {
-    "id": 31,
+        "id": 31,
         "judul": "Bofuri",
         "mc": "Kaede Honjou",
-        "genre": ["Action", "Fantasy", "comedy", "Adventure", "Sci-fi"],
+        "genre": ["Action", "Fantasy", "Comedy", "Adventure", "Sci-fi"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5osjhwDLyhuRswUertk3cBpb5fmddTsgq0qKpykvgw&s=10",
         "pendapat": "aku suka loli di anime ini, soalnya imut² dan op banget, terutama si MC, padahal kekuatan nya cuma tameng, bisa² nya dengan skill pemakan nya langsung clear mob njr lah☠️"
     },
     {
-    "id": 32,
+        "id": 32,
         "judul": "Boku no Hero Academia",
-        "mc": "midoriya izuku",
-        "genre": ["action", "school", "comedy", "shounen", "super-power"],
+        "mc": "Midoriya Izuku",
+        "genre": ["Action", "School", "Comedy", "Shounen", "Super-power"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSWadRsaUsJo_sFFd6tyYaLcIVwEQCDuYw456dOnyow&s=10",
         "pendapat": "walaupun MC dapat kekuatan one for all dari Allmight, kenapa dah MC nya culun banget njr bikin gw emosi, tapi setiap kali percobaan pasti bakal ada kemajuan"
     },
     {
-    "id": 33,
-        "judul": "boku no tsuma wa kanjou",
+        "id": 33,
+        "judul": "Boku no tsuma wa kanjou",
         "mc": "Takuma",
-        "genre": ["romance", "seinen", "comedy", "sci-Fi"],
+        "genre": ["Romance", "Seinen", "Comedy", "Sci-Fi"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKqF7b6aKI_zGbi_9DwP9pJbyw0dZGyxfBJEFLWfyhiw&s=10",
-        "pendapat": "andai MC mau beli mina-san produk yang lebih tinggi, pasti lebih mantab bisa ekspresi kan perasaan, walaupun mina yang biasanya tetap bisa bikin gigi kering, bisa buat kita iri sama ai/robot🥲"
+        "pendapat": "andai MC mau beli mina-san produk yang lebih tinggi, pasti lebih mantab bisa ekspresi kan perasaan, walaupun mina yang biasa tetap bisa bikin gigi kering, bisa buat kita iri sama ai/robot🥲"
     },
     {
-    "id": 34,
-        "judul": "boku no kanojo ga majimesugiru sho-bitch na ken",
+        "id": 34,
+        "judul": "Boku no kanojo ga majimesugiru sho-bitch na ken",
         "mc": "Shinozaki Haruka",
-        "genre": ["romance", "school", "comedy", "ecchi", "Harem"],
+        "genre": ["Romance", "School", "Comedy", "Ecchi", "Harem"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxemWEA4JE6nZvxJG1zf3D5coz0CKaV4vuzdHBsJXuJw&s=10",
         "pendapat": "gokil banget anime nya, baru awal eps udh pacaran, dan tuh si cewek pikirannya mesum banget bjir, walaupun sebenarnya tuh pcrnta msh polos wkwk, pas di OVA nya beh pink banget cik puting pcrnta MC🤣😝😋"
     },
     {
-    "id": 35,
-        "judul": "bokutachi wa benkyou ga dekinai",
+        "id": 35,
+        "judul": "Bokutachi wa benkyou ga dekinai",
         "mc": "Nariyuki Yuiga",
-        "genre": ["romance", "school", "comedy", "shounen", "Harem"],
+        "genre": ["Romance", "School", "Comedy", "Shounen", "Harem"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4nC5LBWU9DWM2MwDH2Db0nEOx1V4-v2C_oK9aTEcZA&s=10",
         "pendapat": "MC nya beruntung banget cik, bisa mengajar primadona sekolah yang cantik², tapi aku lebih suka sama adik nya sih, lebih menggoda😋"
     },
     {
-    "id": 36,
-        "judul": "botsuraku yotei",
+        "id": 36,
+        "judul": "Botsuraku yotei",
         "mc": "Liam Hamilton",
         "genre": ["Fantasy", "Adventure"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpM9TfBQsIDvDjtweJyPDP5OforXkCJck-Mkp0-qfgQ&s=10",
         "pendapat": "pokoknya ini anime Isekai, rekom banget buat di tonton, soalnya MC op dan dapat bini kerajaan yang cantik+montok😋"
     },
     {
-    "id": 37,
-        "judul": "cheat kusushi no slow life",
+        "id": 37,
+        "judul": "Cheat kusushi no slow life",
         "mc": "Kirio Reiji",
-        "genre": ["fantasy", "comedy"],
+        "genre": ["Fantasy", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomJFEhXIzmXcILKp2fQQsRR7SFFFjlJiqLZ-46u5_Qw&s=10",
         "pendapat": "ini cocok banget anime Isekai buat nyantai, bikin mata melek, soalnya banyak anak kecil yang imut², jadi ingin aku miliki😋😝, menggoda banget cuy"
     },
     {
-    "id": 38,
-        "judul": "class no daikirai",
+        "id": 38,
+        "judul": "Class no daikirai",
         "mc": "Saito Houjo",
-        "genre": ["romance", "comedy"],
+        "genre": ["Romance", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7eAV-HrXkIj1Idt_wluG0orwANwgkI79Nu7PSPBqnRw&s=10",
         "pendapat": "walaupun awal² mereka gak akur, tapi pas udah tinggal 1rumah, akhirnya saling membuka hati, walaupun aku lebih suka adik nya pcr MC sih, lebih gede soalnya 😋"
     },
     {
-    "id": 39,
-        "judul": "death march kara hajimaru isekai",
+        "id": 39,
+        "judul": "Death march kara hajimaru isekai",
         "mc": "Ichirou Shuzuki",
-        "genre": ["fantasy", "Harem", "Adventure"],
+        "genre": ["Fantasy", "Harem", "Adventure"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoivmaobHE0e5-yeztZhBcApj1hyQlbP4WQGeeqKnL1Q&s=10",
         "pendapat": "rekom banget kalo suka yang MC langsung op dari awal, soalnya ini MC mati karena lagi ngerjain project game nya sendiri, dan MC pun masuk ke dunia game yg dia buat, nanti MC dapat cewek banyak njr mantab, walaupun gak ke romance sih, lebih ke petualang"
-    }, 
+    },
     {
-    "id": 40,
+        "id": 40,
         "judul": "Denpa Kyoushi",
         "mc": "Kagami Junichirou",
-        "genre": ["shounen", "romance", "school", "comedy"],
+        "genre": ["Shounen", "Romance", "School", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb2vBGCAD3L9MGxjZxhsFZy_T_LShThKLxNHz0tC0Q3Q&s=10",
         "pendapat": "yang suka berbau hacker, ini cocok di tonton, MC nya bener² jago banget dalam bidang exploit, tujuan MC nya aja membuat alat teleportasi,gokil banget ini anime, perfect ending cik"
-    }, 
+    },
     {
-    "id": 41,
-        "judul": Demi-chan",
-        "mc": "Takahashi testsuo",
-        "genre": ["seinen", "vampire", "fantasy", "school", "comedy"],
+        "id": 41,
+        "judul": "Demi-chan",
+        "mc": "Takahashi Tetsuo",
+        "genre": ["Seinen", "Vampire", "Fantasy", "School", "Comedy"],
         "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbUGhLDywhzE0BoCU5_Z5PPuJEadvSc5UZ4fwLz52kTw&s=10",
-        "pendapat": "ini anime yang sangat² bagus, walaupun gak ada genre romance,tetapi tetap bis bikin cenat cenut, apalgi kalau ketemu sakki-sensei😋,aku nak lah
+        "pendapat": "ini anime yang sangat² bagus, walaupun gak ada genre romance, tetap bis bikin cenat cenut, apalagi kalau ketemu sakki-sensei😋, aku nak lah"
     }
 ]
