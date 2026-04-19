@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>AnimeArchive | Koleksi Anime Saya</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    screens: {
+                        'xs': '375px',
+                        'sm': '640px',
+                        'md': '768px',
+                        'lg': '1024px',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="font-[Poppins] overflow-x-hidden">
+
+    <!-- Background -->
+    <div class="fixed inset-0 -z-10 bg-gradient-to-br from-purple-900 via-indigo-900 to-blue-900"></div>
+    <div id="particles" class="fixed inset-0 -z-5 opacity-20"></div>
+
+    <!-- Toolbar Menu (=") -->
+    <div class="fixed top-4 left-4 z-50 md:top-6 md:left-6">
+        <button id="menuToggle" class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 shadow-lg flex items-center justify-center hover:scale-110 transition z-50 relative">
+            <i id="menuIcon" class="fas fa-bars text-white text-xl md:text-2xl"></i>
+        </button>
+        
+        <!-- Menu Dropdown -->
+        <div id="menuDropdown" class="absolute top-12 left-0 mt-2 w-40 bg-black/80 backdrop-blur-xl rounded-xl overflow-hidden hidden transition-all duration-300 z-50">
+            <a href="index.html" class="flex items-center gap-3 px-4 py-3 text-white hover:bg-purple-500/30 transition">
+                <i class="fas fa-home w-5"></i> Home
+            </a>
+            <a href="page2.html" class="flex items-center gap-3 px-4 py-3 text-white hover:bg-purple-500/30 transition">
+                <i class="fas fa-list w-5"></i> My List
+            </a>
+        </div>
+    </div>
+
+    <!-- Navbar -->
+    <nav class="fixed top-0 w-full bg-black/30 backdrop-blur-xl border-b border-white/10 z-40">
+        <div class="container mx-auto px-4 py-3 md:px-6 md:py-4 flex justify-center items-center">
+            <div class="flex items-center gap-2 md:gap-3">
+                <i class="fas fa-film text-2xl md:text-3xl text-purple-400"></i>
+                <span class="text-xl md:text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">AnimeArchive</span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 pt-20 pb-20 md:px-6 md:pt-28 md:pb-12">
+        <!-- Header dengan Jam & Kalender -->
+        <div class="glass-card rounded-xl md:rounded-2xl p-4 md:p-6 mb-6 md:mb-8">
+            <div class="flex flex-col md:flex-row justify-between items-center gap-3 md:gap-4">
+                <div class="text-center md:text-left">
+                    <h1 class="text-2xl md:text-4xl font-bold text-white">My Anime Collection</h1>
+                    <p class="text-purple-200 text-sm md:text-base mt-1">Anime yang sudah saya tonton</p>
+                </div>
+                <div class="flex gap-4 md:gap-6">
+                    <div class="text-center">
+                        <div id="clock" class="text-xl md:text-3xl font-bold text-white font-mono">--:--:--</div>
+                        <div class="text-purple-200 text-xs md:text-sm">Waktu</div>
+                    </div>
+                    <div class="text-center">
+                        <div id="date" class="text-lg md:text-2xl font-bold text-white">--/--/----</div>
+                        <div class="text-purple-200 text-xs md:text-sm">Kalender</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Grid Anime Saya (dari JSON) -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6" id="myAnimeGrid">
+            <!-- Loading -->
+            <div class="col-span-full text-center text-white py-10">Memuat data anime...</div>
+        </div>
+
+        <!-- Musik Player -->
+        <div class="fixed bottom-4 right-4 md:bottom-6 md:right-6 z-50">
+            <button id="musicToggle" class="w-10 h-10 md:w-14 md:h-14 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 shadow-lg flex items-center justify-center hover:scale-110 transition">
+                <i id="musicIcon" class="fas fa-music text-white text-lg md:text-2xl"></i>
+            </button>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

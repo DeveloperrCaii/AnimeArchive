@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>AnimeArchive | List Anime Saya</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="font-[Poppins] overflow-x-hidden">
+
+    <div class="fixed inset-0 -z-10 bg-gradient-to-br from-indigo-900 via-purple-900 to-pink-900"></div>
+
+    <!-- Toolbar Menu -->
+    <div class="fixed top-4 left-4 z-50 md:top-6 md:left-6">
+        <button id="menuToggle" class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 shadow-lg flex items-center justify-center hover:scale-110 transition">
+            <i id="menuIcon" class="fas fa-bars text-white text-xl md:text-2xl"></i>
+        </button>
+        <div id="menuDropdown" class="absolute top-12 left-0 mt-2 w-40 bg-black/80 backdrop-blur-xl rounded-xl overflow-hidden hidden transition-all duration-300">
+            <a href="index.html" class="flex items-center gap-3 px-4 py-3 text-white hover:bg-purple-500/30 transition">
+                <i class="fas fa-home w-5"></i> Home
+            </a>
+            <a href="page2.html" class="flex items-center gap-3 px-4 py-3 text-white hover:bg-purple-500/30 transition">
+                <i class="fas fa-list w-5"></i> My List
+            </a>
+        </div>
+    </div>
+
+    <nav class="fixed top-0 w-full bg-black/30 backdrop-blur-xl border-b border-white/10 z-40">
+        <div class="container mx-auto px-4 py-3 md:px-6 md:py-4">
+            <div class="flex justify-between items-center">
+                <div class="w-10 md:w-12"></div> <!-- Spacer -->
+                <div class="text-white font-semibold text-sm md:text-base">
+                    <i class="fas fa-list-ul mr-2"></i> Daftar Anime Saya
+                </div>
+                <button id="openAddModalBtn" class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-green-500/30 text-green-300 hover:bg-green-500/50 transition flex items-center justify-center">
+                    <i class="fas fa-plus text-sm md:text-base"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container mx-auto px-4 pt-20 pb-20 md:px-6 md:pt-28 md:pb-12">
+        <div class="glass-card rounded-xl md:rounded-2xl p-4 md:p-6 mb-6 md:mb-8">
+            <h1 class="text-xl md:text-3xl font-bold text-white text-center">📚 Koleksi Anime Saya</h1>
+            <p class="text-purple-200 text-xs md:text-base text-center mt-1 md:mt-2">Semua anime yang sudah Anda tambahkan tersimpan di sini</p>
+        </div>
+
+        <div id="userAnimeList" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
+            <!-- Akan diisi JavaScript -->
+        </div>
+
+        <div id="emptyState" class="glass-card rounded-xl md:rounded-2xl p-8 md:p-12 text-center hidden">
+            <i class="fas fa-tv text-4xl md:text-6xl text-purple-400 mb-3 md:mb-4"></i>
+            <p class="text-white text-base md:text-xl">Belum ada anime yang ditambahkan</p>
+            <p class="text-purple-200 text-sm md:text-base mt-2">Klik tombol <i class="fas fa-plus"></i> di atas untuk memulai</p>
+        </div>
+    </main>
+
+    <!-- Modal Tambah Anime -->
+    <div id="addModal" class="fixed inset-0 bg-black/80 backdrop-blur-sm flex items-center justify-center z-50 hidden p-4">
+        <div class="glass-card rounded-xl md:rounded-2xl p-5 md:p-6 w-full max-w-md max-h-[90vh] overflow-y-auto">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-xl md:text-2xl font-bold text-white">Tambah Anime Baru</h2>
+                <button id="closeModal" class="text-white/70 hover:text-white text-2xl">&times;</button>
+            </div>
+            <form id="addAnimeForm">
+                <input type="text" id="animeTitle" placeholder="Judul Anime *" required class="w-full mb-3 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/50 focus:outline-none focus:border-purple-400 text-sm md:text-base">
+                <input type="text" id="animeMc" placeholder="Nama MC *" required class="w-full mb-3 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/50 focus:outline-none focus:border-purple-400 text-sm md:text-base">
+                <input type="text" id="animeGenre" placeholder="Genre (pisahkan koma) *" required class="w-full mb-3 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/50 focus:outline-none focus:border-purple-400 text-sm md:text-base">
+                <input type="url" id="animeImage" placeholder="URL Gambar *" required class="w-full mb-3 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/50 focus:outline-none focus:border-purple-400 text-sm md:text-base">
+                <textarea id="animeReview" rows="3" placeholder="Pendapat tentang anime..." class="w-full mb-4 px-4 py-2 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/50 focus:outline-none focus:border-purple-400 text-sm md:text-base"></textarea>
+                <button type="submit" class="w-full py-2 md:py-3 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold hover:shadow-lg transition text-sm md:text-base">Simpan ke List Saya</button>
+            </form>
+            <p class="text-xs text-white/50 mt-3 text-center">* Wajib diisi | Tersimpan di browser Anda</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
